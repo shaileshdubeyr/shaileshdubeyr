@@ -1,8 +1,5 @@
 ### Hello i am shailesh!! 👋
 .
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... SpringBootApp
 - 🌱 I’m currently learning ... SpringBoot
 - 👯 I’m looking to collaborate on ... Microservices
